@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keshav
 ==============================================================================================================================
 
-FS Web Developer & Deep Leaerning Beginner
+FS Web Developer & Deep Learning Beginner
 ------------------------------
 
 I have been learning to Build a AI Machine from Scratch
