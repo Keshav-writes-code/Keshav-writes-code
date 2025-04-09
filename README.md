@@ -1,11 +1,4 @@
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Keshav-writes-code"
-    width="600"
-    height="120"
-  />
-</a>
+![Keshav Write Code Github Banner (2)](https://github.com/user-attachments/assets/6e817f94-a952-40a8-b107-1036b7215a16)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Keshav
 ==============================================================================================================================
