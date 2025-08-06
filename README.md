@@ -9,7 +9,7 @@ FS Web Developer & Deep Learning Beginner
 I have been learning to Build a AI Machine from Scratch
 
 * 🌍  I'm based in Haryana, India
-* 🚀  I'm currently working on [NeuralNetBuilder](http://keshav-writes-code.github.io/NeuralNetBuilder)
+* 🚀  currently working on this Passion Project : [Droptag](https://github.com/Keshav-writes-code/delivery_helper)
 * 🧠  I'm learning Astro, Svelte, Neural Networks
 * 🤝  open to collaborating on ML based projects that excite me
 * ⚡  also, i like making music. I Mix EDM with all the genres I can find in the world
