@@ -11,8 +11,8 @@ I have been learning to Build a AI Machine from Scratch
 * 🌍  I'm based in Haryana, India
 * 🚀  I'm currently working on [NeuralNetBuilder](http://keshav-writes-code.github.io/NeuralNetBuilder)
 * 🧠  I'm learning Astro, Svelte, Neural Networks
-* 🤝  I'm open to collaborating on ML based projects
-* ⚡  I am also a passionate Music Producer. I Mix EDM with all the genres I can find in the world
+* 🤝  open to collaborating on ML based projects that excite me
+* ⚡  also, i like making music. I Mix EDM with all the genres I can find in the world
 
 <a href="https://www.github.com/Keshav-writes-code" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Keshav-writes-code?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
